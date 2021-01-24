@@ -1,6 +1,6 @@
 # JavaScript30, Challenges No. 1 - Drum Kit
 
-https://github.com/nnsh93/JavaScript30-Challenges/blob/main/Challenge%20%231%20-%20JavaScript%20Drum%20Kit/Drumkit.PNG
+![Drumkit](https://github.com/nnsh93/JavaScript30-Challenges/blob/main/Challenge%20%231%20-%20JavaScript%20Drum%20Kit/Drumkit.PNG)
 
 # Description
 A basic drum keyboard that plays a sound associated to the key pressed. 
