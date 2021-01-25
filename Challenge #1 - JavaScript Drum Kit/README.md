@@ -37,7 +37,7 @@ key.classList.add('.playing');
 audio.currentTime = 0;
 audio.play();
 ```
-The ```audio.currentTime``` method is important because audio files has a duration of how long it will play. Without it, if the same keys is being pressed rapidly the next audio after the current active has ended won't sound until the it has ended.
+The ```audio.currentTime``` method is important because audio files has a duration of how long it will play. Without it, if the same keys is being pressed rapidly the next audio won't sound until the current active sound it has ended.
 
 ### ```key.addEventListener('transitionend', removeTransition)```
 This is important as it listens to any active transition that has ended. If it does, the removeTransition function is called.
