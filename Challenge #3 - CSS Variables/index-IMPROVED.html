@@ -64,17 +64,16 @@
 
   <script>
     const inputs = document.querySelectorAll('.controls input');
-  
+
+    inputs.forEach(input => input.addEventListener('mousemove', handleUpdate)); // detect movement when mouses moves within input
+    inputs.forEach(input => input.addEventListener('change', handleUpdate)); // detect changes in value within input
+
     function handleUpdate() {
       // Takes data element from the selected element. If there is data-now and data-sizing the return object would be { now: "x", sizing: "z" }. 
       // '' happens when data-set is non existence. This is for the case of input type=color
       const suffix = this.dataset.sizing || ''; 
       document.querySelector('img').style.setProperty(`--${this.name}`, this.value+suffix);
     }
-
-    inputs.forEach(input => input.addEventListener('mousemove', handleUpdate)); // detect movement when mouses moves within input
-    inputs.forEach(input => input.addEventListener('change', handleUpdate)); // detect changes in value within input
-    console.log(inputs);
 
   </script>
 
