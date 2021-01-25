@@ -1,4 +1,4 @@
-# Challenges No. 3 - JS and CSS Clock
+# Challenges No. 3 - CSS Variable
 
 ![JS and CSS Clock](https://github.com/nnsh93/JavaScript30-Challenges/blob/main/Challenge%20%233%20-%20CSS%20Variables/CSS%20Variabls.PNG)
 # Description
