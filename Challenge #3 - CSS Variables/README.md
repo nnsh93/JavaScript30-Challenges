@@ -42,6 +42,24 @@ img {
 HTML opacity input has a range between min = "0" and max = "100". However, CSS opacity property only takes in 0 to 1. I can't place HTML range between 0 to 1 because the slider values only allow whole integer and not decimal. Thus, the opacity variable has to be divided by 100. 
 
 ## JavaScript
+### 1. Register changes of value in sliders
+```javascript
+const inputs = document.querySelectorAll('.controls input');
 
+inputs.forEach(input => input.addEventListener('mousemove', handleUpdate)); 
+inputs.forEach(input => input.addEventListener('change', handleUpdate)); 
+```
+The ```mousemove``` event listener is to detect changes in values of the slider as the mouse moves it and apply the changes. While the ```change``` is to apply the changes in value for the color box. 
 
-## Improvements made 
+### 2. To set property to the designated elements using the handleUpdate() function
+```javascript
+function handleUpdate() {
+  // Takes data element from the selected element. If there is data-now and data-sizing the return object would be { now: "x", sizing: "z" }. 
+  // '' happens when data-set is non existence. This is for the case of input type=color
+  const suffix = this.dataset.sizing || ''; 
+  document.querySelector('img').style.setProperty(`--${this.name}`, this.value+suffix);
+}
+```
+
+## Addition made
+Opacity slider. 
