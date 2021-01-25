@@ -1,4 +1,4 @@
-# Challenge No. 2 - JSS and Clock
+# Challenge No. 2 - JS and CSS Clock
 
 ![JS and CSS Clock](https://github.com/nnsh93/JavaScript30-Challenges/blob/main/Challenge%20%232%20-%20JS%20and%20CSS%20Clock/JS%20and%20CSS%20Clock.PNG)
 
