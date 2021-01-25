@@ -4,7 +4,7 @@ There will be a total of 30 challenges that will be completed in the coming futu
 ## The Challenges
 ✅ [#1 JavaScript Drum Kit](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%231%20-%20JavaScript%20Drum%20Kit)
 ✅ [#2 JS and CSS Clock](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%232%20-%20JS%20and%20CSS%20Clock)
-✅ CSS Variables
+✅ [#3 CSS Variables](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%233%20-%20CSS%20Variables)
 ✅ Array Cardio Day 1
 ✅ Flex Panel Gallery
 ⬜️ Type Ahead
