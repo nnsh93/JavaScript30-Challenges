@@ -59,9 +59,8 @@ function removeTransition(e) {
 **The solution:** Inside the playSound() function, the code below is added to exit the function after a sound is played if a key is being held down for too long.
 ```javascript
 function playSound(e) {
-  if (e.repeat) return; //To exit function if a key is held down.
-  const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
-  etc....
+  if (e.repeat) return; //To exit function if a key is held down
+  etc ....
 ```
 
 
