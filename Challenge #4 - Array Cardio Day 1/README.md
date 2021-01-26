@@ -93,15 +93,38 @@ const links = Array.from(category.querySelectorAll("a"));
 links.map(link => link.textContent).filter(link => link.includes('de'));
 ```
 1. Extract all elements under the ```mw-category``` class with ```const category = document.querySelector(".mw-category");```
-2. Extract and store all 'a' tag elements in ```category``` variable into ```links``` variable and transform it into an array to allow array method to be applied.
-3. map() method is used on ```links``` variable to return data's that includes 'de'.
+2. Extract and store all 'a' tag elements in ```category``` variable into ```links``` variable and transform it into an array with ```Array.from``` to allow the application of array method.
+3. map() is used on ```links``` variable to return each data's that includes 'de' using filter().
 
 ### Sort peoples data alphabetically by last name
 ```javascript
 console.table(peoples.map(people => {
   return {
-    first: people.split(",")[1],
-    last: people.split(",")[0]
+    firstName: people.split(",")[1],
+    lastName: people.split(",")[0]
   }
 }).sort((a,b) => a.last > b.last ? 1 : -1 ));
+```
+1. Since data in array is a combination of both last name and first name separated by a comma. First, it is necessary to split each data using ```.split(",")``` where by the first and second splitted array will be the lastName and firstName. 
+2. Then only able to sort the last name alphabetically. 
+
+### Sum the instances of the data array provided below
+#### Data
+```javascript
+const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck' ];
+```
+#### Code
+```javascript
+console.log(data.reduce((obj, item) => {
+  if (!obj[item]) {
+    obj[item] = 0;
+  } /* else if (obj[item]) { This part of the code doesn't work because if a property does not exist in an object it returns undefined instead of false
+    obj[item]++
+  }
+  */
+
+  obj[item]++;
+
+  return obj;
+}, {}));
 ```
