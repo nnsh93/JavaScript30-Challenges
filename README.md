@@ -7,7 +7,7 @@ There will be a total of 30 challenges that will be completed in the coming futu
 ✅ [#3 CSS Variables](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%233%20-%20CSS%20Variables)
 ✅ [#4 Array Cardio Day 1](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%234%20-%20Array%20Cardio%20Day%201)
 ✅ [#5 Flex Panel Gallery](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%235%20-%20Flex%20Panel%20Gallery)
-⬜️ Type Ahead
+✅ Type Ahead
 ⬜️ Array Cardio Day 2
 ⬜️ Fun with HTML5 cCanvas
 ⬜️ Dev Tools Domination
