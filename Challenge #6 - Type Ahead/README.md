@@ -33,7 +33,7 @@ fetch(endpoint)
   }
 ```
 
-## To append matched data to search bar
+## To append matched data to suggestion unordered list element
 ```javascript
     // To append matched data to search bar
     function displayMatches() {
