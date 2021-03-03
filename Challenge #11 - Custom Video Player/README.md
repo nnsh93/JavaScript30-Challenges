@@ -102,4 +102,4 @@ Custom Video Player
   progress.addEventListener('mouseup', () => mousedown = false);
 ```
 ## Future Improvements
-TBD
+MAKE A FULL SCREEN BUTTON! (COMING SOON)
