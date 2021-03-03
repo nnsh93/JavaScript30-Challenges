@@ -12,11 +12,11 @@ There will be a total of 30 challenges that will be completed in the coming futu
 ✅ [#8 Fun with HTML5 cCanvas](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%238%20-%20Fun%20with%20HTML5%20Canvas)
 ✅ [#9 Dev Tools Domination](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%239%20-%20Dev%20Tools%20Domination)
 ✅ [#10 Hold Shift and Check Checkboxes](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2310%20-%20%20Hold%20Shift%20and%20Check%20Checkboxes)
-✅ [#11 Custom Video Player]
-✅ [#12 Key Sequence Detection]
-✅ [#13 Slide in on Scroll]
-✅ [#14 JavaScript References VS Copying]
-✅ [#15 LocalStorage]
+✅ [#11 Custom Video Player](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2311%20-%20Custom%20Video%20Player)
+✅ [#12 Key Sequence Detection](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2312%20-%20Key%20Sequence%20Detection)
+✅ [#13 Slide in on Scroll](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2313%20-%20Slide%20in%20on%20Scroll)
+✅ [#14 JavaScript References VS Copying](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2314%20-%20JavaScript%20References%20VS%20Copying)
+✅ [#15 LocalStorage](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2315%20-%20LocalStorage)
 ⬜️ Mouse Move Shadow
 ⬜️ Sort Without Articles
 ⬜️ Adding Up Times with Reduce
