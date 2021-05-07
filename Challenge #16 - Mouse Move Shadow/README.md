@@ -29,7 +29,7 @@ Responsive Shadow Effect Based on Mouse Position
       y = y + e.target.offsetTop;
     }
 
-    //console.log(this,e.target) // 'This' will return if the DOM that the eventListener is attached to is within boundaries. As for 'target', it return whichever element the mouse is active hovering.
+    //console.log(this,e.target) // 'This' will return if the DOM that the eventListener is attached to is within boundaries. As for 'target', it return whichever element the mouse is actively hovering.
     
     // 2. To calculate the text shadow
     const xWalk = Math.round(( x / width * walk ) - ( walk / 2 ));
