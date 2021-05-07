@@ -17,8 +17,8 @@ There will be a total of 30 challenges that will be completed in the coming futu
 ✅ [#13 Slide in on Scroll](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2313%20-%20Slide%20in%20on%20Scroll)
 ✅ [#14 JavaScript References VS Copying](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2314%20-%20JavaScript%20References%20VS%20Copying)
 ✅ [#15 LocalStorage](https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2315%20-%20LocalStorage)
-✅ [#16 Mouse Move Shadow]
-✅ [#17 Sort Without Articles]
+✅ [#16 Mouse Move Shadow] (https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2316%20-%20Mouse%20Move%20Shadow)
+✅ [#17 Sort Without Articles] (https://github.com/nnsh93/JavaScript30-Challenges/tree/main/Challenge%20%2317%20-%20Sort%20Without%20Articles)
 ⬜️ Adding Up Times with Reduce
 ⬜️ Webcam Fun
 ⬜️ Speech Detection
