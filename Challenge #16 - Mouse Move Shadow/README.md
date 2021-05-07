@@ -1,4 +1,4 @@
-# Challenges No. 15 - Local Storage & Event Delegation
+# Challenges No. 16 - Mouse Move Shadow
 
 ![Mouse Move Shadow](https://github.com/nnsh93/JavaScript30-Challenges/blob/main/Challenge%20%2316%20-%20Mouse%20Move%20Shadow/Mouse%20Over%20Shadow%20Image.PNG)
 
